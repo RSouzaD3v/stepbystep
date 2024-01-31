@@ -109,3 +109,23 @@ hr{
     margin-top: 100px;
     width: 200px;
 }
+
+@media screen and (max-width: 500px) {
+    .formulario{
+        margin-top: 50px;
+        max-width: 350px;
+        border-radius: 15px;
+        color: white;
+        padding: 40px;
+    }
+    .input input{
+        width: 250px;
+        height: 30px;
+        border: none;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    .card{
+        max-width: 350px;
+    }
+}
