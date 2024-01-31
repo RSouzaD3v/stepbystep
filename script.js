@@ -32,7 +32,7 @@ const load = () => {
                         <div class="content">
                             <p>Certificamos que ${filtered[0].sexo === "m" ? "o" : "a"} alun${filtered[0].sexo === "m" ? "o" : "a"}</p>
                             <h2 class="nome">${filtered[0].nome}</h2>
-                            <p>Concluiu com exito o curso de</p>
+                            <p>Concluiu com êxito o curso de</p>
                             <h2 class="curso">${filtered[0].curso}</h2>
                             <p>Com a carga hóraria de: ${filtered[0].carga}</p>
                         </div>
