@@ -17,7 +17,7 @@ const load = () => {
                         
                         main.innerHTML = `
                         <h1 class="not">Não encontramos um certificado!</h1>
-                        <a class="tryAgain" href="/">Tentar novamente</a>
+                        <a class="tryAgain" href="https://rsouzad3v.github.io/stepbystep/">Tentar novamente</a>
                         `;
                     });
                 }else{
@@ -41,7 +41,7 @@ const load = () => {
             
                         <p class="emissao">Data de emissão: ${filtered[0].emissao}</p>
                     </div>
-                    <a href="/" class="tryAgain">Tentar novamente</a>
+                    <a href="https://rsouzad3v.github.io/stepbystep/" class="tryAgain">Tentar novamente</a>
 
                     <div class="logo">
                     <img src="./public/Logo.png" alt="logo">
