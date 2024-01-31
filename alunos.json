@@ -1,11 +1,27 @@
 {
     "alunos": [
         {
-            "id": "3101202401",
+            "id": "rfsn31123.infba",
             "nome": "Rafael Francisco Souza Do Nascimento",
             "curso": "Front-End",
             "sexo": "m",
             "carga": "14 horas",
+            "emissao": "31/01/2024"
+        },
+        {
+            "id": "cels31123.infba",
+            "nome": "Clara Eduarda Leão Sousa",
+            "curso": "Informática (Básico ao Avançado)",
+            "sexo": "m",
+            "carga": "96 horas",
+            "emissao": "31/01/2024"
+        },
+        {
+            "id": "gdsn31123.inff",
+            "nome": "Gustavo Dos Santos Nascimento",
+            "curso": "Informática (fundamental)",
+            "sexo": "m",
+            "carga": "96 horas",
             "emissao": "31/01/2024"
         }
     ]
