@@ -1,0 +1,12 @@
+{
+    "alunos": [
+        {
+            "id": "3101202401",
+            "nome": "Rafael Francisco Souza Do Nascimento",
+            "curso": "Front-End",
+            "sexo": "m",
+            "carga": "14 horas",
+            "emissao": "31/01/2024"
+        }
+    ]
+}
